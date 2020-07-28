@@ -185,7 +185,7 @@ setValue(ev) {
       
         <Row>
           <Col>NO</Col>
-          <Col style={{marginLeft:-50}}>NAMA</Col>
+          <Col style={{marginLeft:-50}}>NAMA MUHARIS</Col>
           <Col style={{marginLeft:-50}}>EMAIL</Col>
           <Col style={{marginLeft:10}}>PERGURUAN TINGGI</Col>
           <Col>PRODI</Col>
